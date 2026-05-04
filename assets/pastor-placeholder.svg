@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">담임목사 임시 이미지</title>
+  <desc id="desc">목회자 사진을 넣을 자리를 위한 차분한 임시 이미지</desc>
+  <rect width="800" height="800" fill="#e7efe9"/>
+  <circle cx="400" cy="285" r="112" fill="#315f4b"/>
+  <path d="M190 720c28-130 105-220 210-220s182 90 210 220" fill="#426b7a"/>
+  <rect x="250" y="122" width="300" height="18" rx="9" fill="#c09a4b" opacity=".8"/>
+  <rect x="285" y="590" width="230" height="26" rx="13" fill="#ffffff" opacity=".45"/>
+</svg>
