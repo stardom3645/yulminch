@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">열민교회 예배당</title>
+  <desc id="desc">화이트 벽과 어두운 나무 패널, 금빛 십자가가 있는 예배당 이미지</desc>
+  <rect width="900" height="900" fill="#fbfaf6"/>
+  <rect x="180" y="80" width="540" height="620" fill="#6a4a36"/>
+  <path d="M220 80v620M300 80v620M380 80v620M460 80v620M540 80v620M620 80v620M700 80v620" stroke="#7e5b43" stroke-width="10"/>
+  <path d="M450 150v310M330 300h240" stroke="#d3aa5c" stroke-width="20" stroke-linecap="round"/>
+  <rect x="110" y="700" width="680" height="130" rx="16" fill="#f8f7f3" stroke="#ddd6cb" stroke-width="8"/>
+  <path d="M190 765h520" stroke="#c8c0b6" stroke-width="14" stroke-linecap="round"/>
+</svg>

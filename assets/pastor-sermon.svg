@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">박석환 담임목사 설교 이미지</title>
+  <desc id="desc">나무 십자가 앞 강단에서 말씀을 전하는 담임목사의 모습을 단순화한 이미지</desc>
+  <rect width="900" height="900" fill="#fbfaf6"/>
+  <rect x="0" y="0" width="345" height="900" fill="#5d422f"/>
+  <path d="M168 85v330M58 220h226" stroke="#d0a85e" stroke-width="16" stroke-linecap="round"/>
+  <rect x="345" y="0" width="555" height="900" fill="#f3efe8"/>
+  <circle cx="455" cy="315" r="78" fill="#252927"/>
+  <path d="M260 840c34-255 108-395 200-395s166 140 200 395" fill="#1f2220"/>
+  <path d="M390 460l62 155 66-155" fill="#ffffff"/>
+  <path d="M450 482l44 142" stroke="#d99580" stroke-width="38" stroke-linecap="round"/>
+  <rect x="210" y="670" width="520" height="170" rx="12" fill="#f9f9f7" stroke="#d4cec5" stroke-width="8"/>
+  <path d="M275 755h390" stroke="#b9b2aa" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 590c-80 46-132 104-162 170M730 590c80 46 132 104 162 170" stroke="#1f2220" stroke-width="34" stroke-linecap="round"/>
+</svg>

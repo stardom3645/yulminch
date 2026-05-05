@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">설교 영상 썸네일</title>
+  <desc id="desc">나무 십자가 앞에서 설교하는 목회자와 유튜브 썸네일 스타일의 화면</desc>
+  <rect width="1280" height="720" fill="#f8f6f0"/>
+  <rect x="0" y="0" width="390" height="720" fill="#5f432f"/>
+  <path d="M190 70v305M82 190h216" stroke="#d0a85e" stroke-width="15" stroke-linecap="round"/>
+  <rect x="405" y="0" width="875" height="720" fill="#fdfcf8"/>
+  <path d="M835 92h345M835 150h265M835 208h310" stroke="#6f3c90" stroke-width="24" stroke-linecap="round" opacity=".9"/>
+  <circle cx="555" cy="280" r="74" fill="#272727"/>
+  <path d="M430 620c24-160 72-252 128-252s104 92 128 252" fill="#1f2220"/>
+  <path d="M500 390l48 118 50-118" fill="#fffdf8"/>
+  <path d="M545 408l42 112" stroke="#d99580" stroke-width="34" stroke-linecap="round"/>
+  <rect x="420" y="565" width="330" height="115" rx="14" fill="#f8f8f6" stroke="#d8d2ca" stroke-width="8"/>
+  <path d="M466 635h235" stroke="#bbb5ae" stroke-width="12" stroke-linecap="round"/>
+  <rect x="895" y="540" width="230" height="74" rx="10" fill="#252927" opacity=".92"/>
+  <text x="928" y="588" fill="#fff" font-family="Noto Sans KR, Arial, sans-serif" font-size="34" font-weight="800">주일설교</text>
+</svg>
